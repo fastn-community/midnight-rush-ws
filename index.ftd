@@ -1,0 +1,27 @@
+-- import: fastn-community.github.io/midnight-rush-ws/FASTN/ws
+export: page
+
+-- import: fastn-community.github.io/midnight-rush-hero as hero
+
+-- import: fastn-community.github.io/midnight-rush-cs as cs
+-- import: fastn-community.github.io/midnight-rush-typography as typo
+
+
+
+
+-- ws.page:
+site-url: index.html
+types: $typo.types
+colors: $cs.main
+
+-- hero.stack: Title copy goes here
+cta-primary-text: View more
+cta-primary-url: /
+cta-secondary-text: Preview
+cta-secondary-url: /
+image: $assets.files.images.image.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat.
+
+
+-- end: ws.page
