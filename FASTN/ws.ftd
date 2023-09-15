@@ -34,7 +34,7 @@ site-logo: $page.site-logo
 site-url: $page.site-url
 
 -- ftd.column:
-spacing.fixed.em: 0.8
+spacing.fixed.em: 2
 width: fill-container
 padding-horizontal.percent: 5
 padding-vertical.px: 40
