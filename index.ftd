@@ -11,6 +11,7 @@ export: page
 
 -- ws.page:
 site-url: index.html
+site-name: MnR
 types: $typo.types
 colors: $cs.main
 
@@ -20,6 +21,35 @@ cta-primary-url: /
 cta-secondary-text: Preview
 cta-secondary-url: /
 image: $assets.files.images.image.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat.
+
+
+-- hero.heading-center: Title copy goes here
+cta-primary-text: View more
+cta-primary-url: /
+cta-secondary-text: Preview
+cta-secondary-url: /
+image: $assets.files.images.image.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat.
+
+
+-- hero.heading-left: Title copy goes here
+cta-primary-text: View more
+cta-primary-url: /
+cta-secondary-text: Preview
+cta-secondary-url: /
+image: $assets.files.images.image.svg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat.
+
+
+-- hero.without-image: Title copy goes here
+cta-primary-text: View more
+cta-primary-url: /
+cta-secondary-text: Preview
+cta-secondary-url: /
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat.
 
