@@ -6,12 +6,11 @@ favicon: /-/fastn-community.github.io/midnight-rush-ws/favicon.ico
 -- fastn.dependency: fastn-community.github.io/midnight-rush-cs
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography
 -- fastn.dependency: fastn-community.github.io/midnight-rush-hero
--- fastn.dependency: fastn-community.github.io/navigational-sitemap-header
--- fastn.dependency: fifthtry.github.io/dark-mode-switcher
+-- fastn.dependency: fastn-community.github.io/website-doc
 
 -- fastn.auto-import: fastn-community.github.io/midnight-rush-ws/assets
 
 
 -- fastn.sitemap:
 
-# Home: index.html
+# Home: /preview/landing/
