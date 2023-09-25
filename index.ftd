@@ -9,4 +9,4 @@ export: hero-stack, hero-left-stack, hero-heading-center, hero-heading-left, her
 
 -- docs.home:
 created-by: Priyanka
-preview-url: /preview/landing/
+preview-url: preview/landing/
