@@ -7,6 +7,7 @@ favicon: /-/fastn-community.github.io/midnight-rush-ws/favicon.ico
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography
 -- fastn.dependency: fastn-community.github.io/midnight-rush-hero
 -- fastn.dependency: fastn-community.github.io/website-doc
+-- fastn.dependency: fastn-community.github.io/branchless-sitemap-header
 
 -- fastn.auto-import: fastn-community.github.io/midnight-rush-ws/assets
 
